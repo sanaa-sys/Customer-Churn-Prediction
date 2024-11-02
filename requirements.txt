@@ -1,7 +1,8 @@
-streamlit==1.24.0
+streamlit
 pandas
 numpy
 scikit-learn
-xgboost==1.7.3
+imbalanced-learn
+xgboost
 plotly
 openai
