@@ -81,7 +81,7 @@ def load_model(filename):
 xgboostmodel = load_model("xgb_model.pkl")
 nb_model = load_model("nb_model.pkl")
 dt_model = load_model("dt_model.pkl")
-
+knn_model = load_model("knn_model.pkl")
 svm_model = load_model("svm_model.pkl")
 xgbboostmodelresampled = load_model("xgboost_model_resampled.pkl")
 xgbboostmodelfeature = load_model("xgboost_modelFeature.pkl")
