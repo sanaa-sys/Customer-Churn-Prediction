@@ -1,4 +1,4 @@
-Peoject 1: Customer Churn Prediction 
+Project 1: Customer Churn Prediction 
 
 This project focused on analyzing customer behavior to understand why they leave, helping businesses craft better retention strategies. By leveraging machine learning models, I was able to accurately predict churn and identify patterns that can guide retention efforts. 
 
